@@ -1,7 +1,7 @@
 <h1 align="center">github-explorer</h1>
 
 <div align="center">
-    <img src="./src/asseets/images/img-aplication.png" alt="image aplication" width="80" height="80">
+    <img src="src/assets/images/img-aplication.png" alt="image aplication">
 </div>
 
 <h2 align="center">My github repositories, aplication created in Ignit Rocketseat</h2>
