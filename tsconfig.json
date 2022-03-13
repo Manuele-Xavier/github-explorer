@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {                                
+    "lib": ["dom", "dom.iterable", "esnext"],  //adiciona algumas funcionalidades          
+    "jsx": "react-jsx", //entender que vamos escrever html dentro do js                                      
+    "module": "commonjs",                                                             
+    "moduleResolution": "node",                                    
+    "resolveJsonModule": true,  //posibilidade de importar arquivos json                     
+    "allowJs": true, //ter arquivos js e tsc                                                   
+    "isolatedModules": true,                          
+    "allowSyntheticDefaultImports": true,             
+    "esModuleInterop": true,                                                   
+    "forceConsistentCasingInFileNames": true,            
+    "strict": true,  //modo de lidar com erros do js                                                     
+    "skipLibCheck": true                                 
+  },
+  "include": ["src"] //onde a nossa aplicação esta
+}
