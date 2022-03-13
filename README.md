@@ -1,6 +1,10 @@
-# github-explorer
+<h1 align="center">github-explorer</h1>
 
-## My github repositories, aplication created in Ignit Rocketseat
+<div align="center">
+    <img src="./src/asseets/images/img-aplication.png" alt="image aplication" width="80" height="80">
+</div>
+
+<h2 align="center">My github repositories, aplication created in Ignit Rocketseat</h2>
 
 ### Section
 - Repository
